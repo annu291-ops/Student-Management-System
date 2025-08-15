@@ -1,0 +1,15 @@
+# Student Management System (Frontend)
+
+This project is a front-end web application for managing student records.  
+It is built using **HTML**, **CSS**, and **JavaScript**, providing a clean user interface and interactive features.
+
+## Features
+- 📄 Manage student records
+- 🎨 Responsive design with CSS
+- ⚡ JavaScript for interactivity
+- 🖥️ Easy to customize and extend
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6)
